@@ -6,8 +6,6 @@
 
 如果想要消耗物品，让 TNTRightClickProcessor 的 onPlayerUseRequiredItem 方法返回 true 即可。
 
-此示例使用的 RFM API 版本是: 1.3.4 (对应插件的版本 v1.3.1)
+此示例使用的 RFM API 版本是: 1.5.0 (对应插件的版本 v1.7.x)
 
 -- SNWCreations
-
-2022/2/27
